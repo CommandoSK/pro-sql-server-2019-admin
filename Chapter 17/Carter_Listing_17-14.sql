@@ -1,3 +1,4 @@
+SELECT
         100 *
          (
         SELECT cntr_value
